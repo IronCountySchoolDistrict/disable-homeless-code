@@ -1,0 +1,19 @@
+{
+  "name": "disable-homeless-code",
+  "version": "1.0.0",
+  "description": "Disables homeless code field on Other Information",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronCountySchoolDistrict/copy-calendar.git"
+  },
+  "author": "IronCountySchoolDistrict",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/IronCountySchoolDistrict/copy-calendar/issues"
+  },
+  "homepage": "https://github.com/IronCountySchoolDistrict/copy-calendar#readme"
+}

@@ -1,0 +1,6 @@
+
+<script>
+	require(["jquery", function($) {
+		$j('#ldv_generatedID1').attr('disabled', 'disabled');
+	}])
+</script>
