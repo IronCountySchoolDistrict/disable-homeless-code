@@ -1,6 +1,6 @@
 
 <script>
-	require(["jquery", function($) {
-		$j('#ldv_generatedID1').attr('disabled', 'disabled');
-	}])
+	require(["jquery"], function($) {
+		$("[name$=homeless_code]").attr({"disabled": "disabled"});
+	});
 </script>

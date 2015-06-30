@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IronCountySchoolDistrict/copy-calendar.git"
+    "url": "git+https://github.com/IronCountySchoolDistrict/disable-homeless-code.git"
   },
   "author": "IronCountySchoolDistrict",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/IronCountySchoolDistrict/copy-calendar/issues"
+    "url": "https://github.com/IronCountySchoolDistrict/disable-homeless-code/issues"
   },
-  "homepage": "https://github.com/IronCountySchoolDistrict/copy-calendar#readme"
+  "homepage": "https://github.com/IronCountySchoolDistrict/disable-homeless-code#readme"
 }
