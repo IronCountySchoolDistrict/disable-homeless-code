@@ -1,0 +1,6 @@
+
+<script>
+	require(["jquery"], function($) {
+		$("[name$=homeless_code]").attr({"disabled": "disabled"});
+	});
+</script>
