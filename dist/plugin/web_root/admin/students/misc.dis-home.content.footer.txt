@@ -1,6 +1,2 @@
 
-<script>
-	require(["jquery"], function($) {
-		$("[name$=homeless_code]").attr({"disabled": "disabled"});
-	});
-</script>
+<script src="/scripts/disable-homeless-code/disablecode.js"></script>
